@@ -1,5 +1,5 @@
 %%
-% Isaac Chi 
+% Dinoplane
 % Monterey Peninsula College
 % ENGR 17
 % Connett
